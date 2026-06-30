@@ -41,13 +41,12 @@ Currently Learning
 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yousafaamir205-ship-it&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafaamir205-ship-it&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yousafaamir205-ship-it&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafaamir205-ship-it&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 <p align="center">
-<i>"Learning one commit at a time."</i>
+<i>"Learning and Improving."</i>
 </p>
