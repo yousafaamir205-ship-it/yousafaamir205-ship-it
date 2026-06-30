@@ -12,7 +12,7 @@ Building a strong foundation in programming, algorithms, and data science throug
 
 ---
 
-## 💻 Tech Stack
+Tech Stack
 
 <p align="center">
 
@@ -25,7 +25,7 @@ Building a strong foundation in programming, algorithms, and data science throug
 
 ---
 
-## 📚 Currently Learning
+Currently Learning
 
 <p align="center">
 
@@ -38,7 +38,7 @@ Building a strong foundation in programming, algorithms, and data science throug
 
 ---
 
-## 📈 GitHub Stats
+GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yousafaamir205-ship-it&show_icons=true&theme=tokyonight&hide_border=true"/>
