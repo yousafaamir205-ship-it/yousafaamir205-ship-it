@@ -1,4 +1,4 @@
-<h1 align="center">Yousaf</h1>
+<h1 align="center">Muhammad Yousaf</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
